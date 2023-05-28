@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SILab2Test" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-05-28T18:02:04" hostname="LAPTOP-5VQBR7R0" time="0.039">
+  <properties/>
+  <testcase name="uniquePassShorterThanEight()" classname="org.example.SILab2Test" time="0.02"/>
+  <testcase name="korisnickaListaPrazna()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="longPassword()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="passwordDoesNotContainSpecialChar()" classname="org.example.SILab2Test" time="0.0"/>
+  <testcase name="passwordContainsEmptySpace()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="passwordAndEmailAreNull()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="userNullException()" classname="org.example.SILab2Test" time="0.003"/>
+  <testcase name="invalidEmail()" classname="org.example.SILab2Test" time="0.002"/>
+  <testcase name="passwordNull()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="validUserEmptyUserList()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="samePasswordLongerThanEight()" classname="org.example.SILab2Test" time="0.001"/>
+  <testcase name="emailNull()" classname="org.example.SILab2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
